@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Drone-Matters/ZMR-NightHawk-250",
+    "esc": "EMAX/BLHeli-Series-12A-ESC",
+    "motor": "EMAX/MT2204-2300KV",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "Gemfan/6x3-FG-MR"
+    ],
+    "arm": "",
+    "battery": [
+      "Lumenier/1300mAh-3s-60c-Lipo"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
